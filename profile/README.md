@@ -20,4 +20,4 @@ Decision Clarity is an independent studio building websites and AI tools for sma
 The background behind it: years of enterprise IT and infrastructure architecture, brought down to the scale a growing business actually needs.
 
 ---
-🌐 [Explore Live System Demos & Templates](https://decisionclarity.io)
+🌐 Explore Live System Demos & Software Portfolios(https://decisionclarity.io)
