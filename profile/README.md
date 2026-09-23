@@ -15,7 +15,7 @@ Decision Clarity is an independent studio building websites and AI tools for sma
 - **Front end:** HTML, CSS, vanilla JS
 - **Back end:** Vercel serverless functions (Node)
 - **Data & infra:** Redis (rate limiting), PostgreSQL, Git, GitHub Actions
-- **AI:** Claude API, structured output, retrieval
+- **AI:** Claude API, structured output, (RAG) retrieval
 
 The background behind it: years of enterprise IT and infrastructure architecture, brought down to the scale a growing business actually needs.
 
